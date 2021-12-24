@@ -24,7 +24,7 @@ body {
   border-radius: 50%;
   object-fit: cover;
   margin-bottom: 1rem;
-  border: 5px solid #0f2f49;
+  border: 5px solid #0f2f498c;
 }
 .card h6 {
   margin: 0;
